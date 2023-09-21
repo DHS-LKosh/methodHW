@@ -3,7 +3,7 @@
 ## Question 1 - Print Times Table
 Given an integer, n, **print** a formatted times table from 0 to 13.
 ```
-3 x 0 = 3
+3 x 0 = 0
 3 x 1 = 3
 3 x 2 = 6
 ...
